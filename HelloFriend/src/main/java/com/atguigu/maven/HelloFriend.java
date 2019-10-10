@@ -17,4 +17,5 @@ package com.atguigu.maven;
 		public String getMyName(){
 			return "John";
 		}
+		public void test1(){}
 	}
